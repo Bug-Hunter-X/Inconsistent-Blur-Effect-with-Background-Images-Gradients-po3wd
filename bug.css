@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` sometimes doesn't work as expected when applied to elements with background images or gradients.  It might result in the blur effect being applied inconsistently or not at all.  This is especially common in older browsers or when dealing with complex backgrounds.
